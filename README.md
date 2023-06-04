@@ -1,3 +1,5 @@
+Further development/maintainance on: https://github.com/happy-san/dart-cacher
+
 # Dcache
 
 Dcache is a simple library to implement application caching in `dart` inspired by [gcache](https://github.com/bluele/gcache)
